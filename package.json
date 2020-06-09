@@ -1,0 +1,17 @@
+{
+  "name": "git-actions-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hirak",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.6"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
